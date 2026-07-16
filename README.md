@@ -1,6 +1,5 @@
 <script type="application/ld+json">
 
-**<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
