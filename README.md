@@ -1,3 +1,5 @@
+<script type="application/ld+json">
+
 **<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -73,3 +75,4 @@
 
 </body>
 </html>**
+</script>
